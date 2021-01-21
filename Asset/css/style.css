@@ -1,0 +1,50 @@
+.jumbotron{
+    font-family: Sans-serif;
+    background-color: seagreen;
+}
+.content{
+    font-family: Sans-serif;
+    font-size: 150%;
+
+}
+.navbar{
+    font-family: Sans-serif;
+
+
+}
+.footer{
+	background-color:burlywood;
+	color: red;
+	font-family: Sans-serif;
+
+}
+
+i {
+	padding: 16px;
+
+}
+.form-container{
+	font-family: Sans-serif;
+	padding: 25px;
+	padding-top: 25px;
+	color: white;
+	border-radius: 24px;
+	width: 100%;
+}
+
+#about-form{
+	padding: 15px;
+	
+}
+.display-4{
+	font-family: Sans-serif;
+
+}
+
+.service-row{
+		font-family: Sans-serif;
+
+}
+.card-title{
+	font-weight: bold;
+}
